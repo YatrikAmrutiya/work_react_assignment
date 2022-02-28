@@ -1,0 +1,338 @@
+@media only screen and (max-width: 1024px) {
+
+    .feature-text h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+main {
+    margin-top: 66px;
+}
+  }
+  @media only screen and (max-width: 992px) {
+   
+    .feature-text h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+}
+@media only screen and (max-width: 768px) {
+    .footer-icon-content{
+        
+        flex: 100%;
+    }
+    .footer-list-content{
+        padding: 20px 0 0;
+        flex: 100%;
+    }
+    .footer-main{
+        flex-wrap: wrap;
+    }
+
+    .feature-text h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.profiledeatails  .feature-text h3 ,.profiledeatails  .feature-text h4{
+ font-size: 18px;
+   margin-bottom: 0px;
+     margin-top: 0px !important;
+}
+.singleitem1 .profile img{
+
+}
+
+.container-fluid{
+      width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.d-desk-none{
+  display: block !important;
+} 
+.d-desk-block{
+  display: none !important;
+} 
+nav .dropdown-menu {
+    position: static !important;
+    float: none !important;
+    -webkit-transform: none !important;
+       -moz-transform: none !important;
+        -ms-transform: none !important;
+         -o-transform: none !important;
+            transform: none !important;
+        z-index: 1000;
+    display: none;
+    float: none;
+    min-width: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+       padding: 9px 0px;
+    margin: 0;
+    font-size: 1rem;
+    color: #fff;
+    text-align: left;
+    list-style: none;
+    background-color: #252a32;
+    background-clip: padding-box;
+    border-radius: 0px;
+border:  none;
+    transform: none!important;
+}
+
+nav a.dropdown-toggle{
+        display: flex!important;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.header .nav-menu .nav-link a:hover {
+    color: #d32f2f;
+    background: #252a32;
+}
+.search-input {
+    width: 100%;
+    padding: 10px 21px;
+    border: 1px solid #111d5e;
+    border-radius: 10px 0 0 10px;
+    border-right: none;
+    outline: none;
+    font-size: 17px;
+    color: black;
+    background: none;
+    margin-left: 2px;
+}
+.search-box {
+    width: 100%;
+    position: relative;
+    display: flex;
+    padding-right: 42px !important;
+}
+.footer-main {
+    margin: 20px 0 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+        margin-bottom: 50px;
+    /* background-color: #eeeeee; */
+}
+.footer-titles h2{
+    margin-top: 25px;
+}
+main {
+    margin-top: 161px;
+}
+#carousel2 .item .artwork-content {
+    padding: 30px;
+    padding-bottom: 0px;
+}
+.search-box {
+    width: 100%;
+    position: relative;
+    display: flex;
+    padding-right: 82px;
+}
+
+ .flex-wrap{
+    flex-wrap: wrap-reverse  !important;
+ }
+  .header .nav-wrapper {
+    padding: 1rem 2rem;
+    margin: 0 auto;
+  }
+  .header .nav-menu .nav-button {
+    display: inline-block;
+    position: absolute;
+  top: 79px;
+    right: 0;
+  }
+  .header .nav-menu .nav-button label {
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    margin: 1.7rem 0;
+  }
+  .header .nav-menu .nav-button label span {
+    display: block;
+    width: 2rem;
+    height: 0.5rem;
+    border-top: 2px solid #000000;
+}
+.owl-carousel button.owl-dot{
+   max-width: 88px;
+   padding-top: 0px;
+}
+ .margin-center {
+    text-align: center;
+    width: 100%;
+    background-color: #fff;
+}
+ .margin-center .btn {
+    min-width: 119px;
+    margin-bottom: 10px;
+}
+.margin-center .btn-primary {
+    width: 100%;
+    font-size: 16px;
+    max-width: 130px;
+    padding: 7px 7px;
+    border: 2px solid #000;
+    background-color: #000;
+    border-radius: 5px;
+    /* margin-bottom: 10px; */
+    min-width: 125px;
+}
+  .header .nav-menu .nav-link {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #252a32;
+    transition: all 0.3s ease-in;
+        top: 161px;
+    left: 0;
+    z-index: -2;
+    overflow: hidden;
+  }
+  .header .nav-menu .nav-link a {
+    display: block;
+    width: 100%;
+    color: #fff;
+      padding: 13px 0px 0px 0px;
+  }
+  .header .nav-menu #nav-check:not(:checked) + .nav-link {
+    height: 0;
+        top: 122px;
+  }
+  .header .nav-menu #nav-check:checked + .nav-link {
+    height: calc(100vh - 4.2rem);
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width:768px) {
+
+    .sidebar.active .filter-by-close-menu {
+    display: block;
+    z-index: 9999999;
+    position: static;
+    right: 30px;
+    top: 0;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    display: flex !important;
+}
+.filter-by-close-menu .btn{
+    padding: 7px 7px;
+    font-size: 18px;
+        max-width: 106px;
+}
+.filter-by-close-menu .btn-secondary{
+    padding:0;
+    font-size: 18px;
+    max-width: 106px;
+    border: none;
+    line-height: 20px;
+    margin-top: -9px;
+}
+  .sidebar.active .accordion {
+    margin-top: 14px;
+    
+    box-shadow: none;
+    padding: 23px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-bottom: 80px;
+}
+
+    section.content {
+    width: 100%;
+}
+    .filter-menu{
+        display: block;
+    }
+    .sidebar.active {
+        top: 153px;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box;
+        /*transition: all 4s ease-in-out;*/
+        width: 100%;
+        position: fixed;
+        display: block;
+        background-color: #fff;
+        height: 500px;
+        z-index: 3;
+        overflow-y: auto;
+        margin: 0px;
+        margin-bottom: 10px;
+        padding: 0px;
+}
+.profile h2{
+    font-size: 22px;
+}
+.profile img {
+    width: 30px !important;
+    border-radius: 50%!important;
+    height: 30px;
+    object-fit: cover;
+}
+.profiledeatails {
+    margin-top: 20px;
+}
+.profiledeatails .feature-text{
+    padding: 0px;
+}
+.profiledeatails .flex-rev{
+    flex-wrap: wrap-reverse
+}
+.profiledeatails .feature-text h3{
+    margin-top: 20px;
+}
+.profiledeatails .text-underline{
+     margin-top: 10px !important;
+}
+.profiledeatails p{
+    margin-top: 10px;
+}
+    .sidebar{
+        display: none;
+    }
+    .product-item {
+        width: 100%;
+    }
+  .dot-side .dropdown-menu {
+    left: -128px !important;
+    transform: none !important;
+    top: 39px !important;
+}
+.profiledeatails .feature-text{
+    padding-top: 10px;
+}
+.profiledeatails .feature-text a{
+margin-bottom: 13px;
+    display: block;
+}
+
+}
+@media only screen and (max-width:475px) {
+.singleitem1 .profile img {
+    width: 40px !important;
+    height: 40px;
+    border-radius: 0px !important;
+    object-fit: cover;
+}
+.after-arfair.singleitem1 .profile {
+        margin-top: 10px;
+}
+.singleitem1 .art-text button {
+    padding: 4px;
+    max-width: 89px;
+    font-size: 14px;
+    min-width: 70px;
+}
+}
