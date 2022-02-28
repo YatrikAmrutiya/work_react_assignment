@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/work_react_assignment/static/css/main.ad61cdf1.css",
+    "main.js": "/work_react_assignment/static/js/main.eefb0988.js",
+    "index.html": "/work_react_assignment/index.html",
+    "main.ad61cdf1.css.map": "/work_react_assignment/static/css/main.ad61cdf1.css.map",
+    "main.eefb0988.js.map": "/work_react_assignment/static/js/main.eefb0988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad61cdf1.css",
+    "static/js/main.eefb0988.js"
+  ]
+}
