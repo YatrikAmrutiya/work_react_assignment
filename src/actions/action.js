@@ -1,33 +1,21 @@
-export const RegisterAction = (user) => (dispatch, getState) => {
-    console.log("inside action")
-    const {
-        User: { users },
-    } = getState();
-
-    const hasUser = users.find(i => i.user === user)
-
-    if (!hasUser && user !== "") {
-        console.log("accepted")
-        dispatch({
-            type: "USER_REGISTER_SUCCESS",
-            payload: [{ id: user, user }, ...users]
-        })
-    } else {
-        console.log("user present")
-    }
+export const isLoggedIn = () => {
+  return {
+    type: "LOGIN",
+  };
 };
-
-export const LoginAction = (user) => (dispatch, getState) => {
-    const {
-        User: { users },
-    } = getState();
-
-    const hasUser = users.find(i => i.user === user)
-
-    if (hasUser && user !== "") {
-        dispatch({
-            type: "USER_LOGIN_SUCCESS",
-            payload: [{ id: user, user }, ...users]
-        })
-    }
+export const isloggedOut = () => {
+  return {
+    type: "LOGOUT_USER",
+  };
+};
+export const UserData = (firstName, lastName, email, password) => {
+  return {
+    type: "addUser",
+    payLoad: {
+      firstName: firstName,
+      lastName: lastName,
+      email: email,
+      pass: password,
+    },
+  };
 };

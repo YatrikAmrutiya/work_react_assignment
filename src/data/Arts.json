@@ -1,142 +1,142 @@
 [
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art2.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art3.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art4.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art2.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art3.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art4.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art2.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art3.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art4.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art2.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art3.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art2.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art3.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art4.jpg"
-    },
-    {
-        "gallery_name": "Artist Name",
-        "Art_name": "Art Name",
-        "category": "Category of Art",
-        "price": "0.1 ETH($332)",
-        "image": "art1.jpg"
-    }
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art2.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art3.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art4.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art2.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art3.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art4.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art2.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art3.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art4.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art2.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art3.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art2.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art3.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art4.jpg"
+  },
+  {
+    "gallery_name": "Artist Name",
+    "Art_name": "Art Name",
+    "category": "Category of Art",
+    "price": "0.1 ETH($332)",
+    "image": "art1.jpg"
+  }
 ]
