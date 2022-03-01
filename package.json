@@ -1,18 +1,21 @@
 {
   "name": "react-assignment",
   "version": "0.1.0",
+  "homepage": "https://yatrikamrutiya.github.io/work_react_assignment",
   "private": true,
   "dependencies": {
-    "gh-pages": "^3.2.3",
-    "jquery": "^3.6.0",
+    "bootstrap": "^4.6.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.16.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
     "react-owl-carousel": "^2.3.3",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
-    "redux": "^4.1.2",
-    "sweetalert2": "^11.4.4"
+    "redux": "^4.1.2"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -43,5 +46,8 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "yatrik_amrutiya",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

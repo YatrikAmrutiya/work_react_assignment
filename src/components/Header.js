@@ -2,7 +2,7 @@ import React from "react";
 import { isloggedOut } from "../actions/action.js";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-
+import logo from "../assets/images/logo.png"
 function Header() {
   const validUser = useSelector((state) => state.loggedIn);
   const dispatch = useDispatch();
@@ -24,7 +24,7 @@ function Header() {
           <div className="nav-wrapper">
             <div className="nav-header">
               <Link to="index.html" className="navbar-brand header-logo">
-                <img src="./img/logo.png" alt="" />
+                <img src={logo} alt="" />
               </Link>
             </div>
             <div className="search-box">

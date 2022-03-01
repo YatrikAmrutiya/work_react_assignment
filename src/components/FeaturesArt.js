@@ -20,27 +20,25 @@ function FeaturesArt() {
 
   let Artsdata = require("../data/Arts.json");
 
-  const items = [];
-
-  for (const [index, art] of Artsdata.entries()) {
-    items.push(
-      <div class="item" key={index}>
-        <a href="artlist-b-login.html">
-          <div class="art-text">
-            <img src={`img/${art.image}`} alt="" />
-            <div class="feature-text justify-content-start">
-              <div class="d-flex flex-column align-items-start featured-text">
-                <h3>{art.gallery_name}</h3>
-                <p>{art.Art_name}</p>
-                <p>{art.category}</p>
-                <h5>{art.price}</h5>
-              </div>
+  const items = Artsdata.map((art) => {
+    return <div class="item" >
+      <a href="artlist-b-login.html">
+        <div class="art-text">
+          <img src={require(`../assets/images/${art.image}`)} alt="" />
+          <div class="feature-text justify-content-start">
+            <div class="d-flex flex-column align-items-start featured-text">
+              <h3>{art.gallery_name}</h3>
+              <p>{art.Art_name}</p>
+              <p>{art.category}</p>
+              <h5>{art.price}</h5>
             </div>
           </div>
-        </a>
-      </div>
-    );
-  }
+        </div>
+      </a>
+    </div>
+  })
+
+
   return (
     <div>
       <div className="container-fluid  ">

@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { isLoggedIn, isloggedOut } from "../actions/action.js";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import profile from "../assets/images/profile.png"
 
 function Login() {
   const [email, setEmail] = useState("");
@@ -40,7 +41,7 @@ function Login() {
               <h2 className="font-weight-bold">Login</h2>
             </div>
             <div className="profile-photo">
-              <img src="./img/profile.png" className="img-fluid" alt="" />
+              <img src={profile} className="img-fluid" alt="" />
             </div>
             <div className="row clearfix">
               <div className="w-100">
