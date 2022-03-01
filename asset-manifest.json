@@ -1,13 +1,37 @@
 {
   "files": {
-    "main.css": "/work_react_assignment/static/css/main.ad61cdf1.css",
-    "main.js": "/work_react_assignment/static/js/main.eefb0988.js",
+    "main.css": "/work_react_assignment/static/css/main.fa80282e.css",
+    "main.js": "/work_react_assignment/static/js/main.9ae0aa69.js",
+    "static/media/landingsde.png": "/work_react_assignment/static/media/landingsde.cd21767d24d37925a757.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/work_react_assignment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg3.jpeg": "/work_react_assignment/static/media/bg3.493cd779825f711be2bf.jpeg",
+    "static/media/fairimg1.jpg": "/work_react_assignment/static/media/fairimg1.ccf995831c6fce73f153.jpg",
+    "static/media/fairimg.jpg": "/work_react_assignment/static/media/fairimg.15b05f8f93bf539d879a.jpg",
+    "static/media/fontawesome-webfont.eot": "/work_react_assignment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/work_react_assignment/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/logo.png": "/work_react_assignment/static/media/logo.9fba9278c2f8a29672cc.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/work_react_assignment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fa2.jpg": "/work_react_assignment/static/media/fa2.badcbd9b62d557a6e5a6.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/work_react_assignment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/art2.jpg": "/work_react_assignment/static/media/art2.f5b7bd757dc843e1c7b8.jpg",
+    "static/media/bg.jpg": "/work_react_assignment/static/media/bg.1aa9611588afa016294c.jpg",
+    "static/media/art3.jpg": "/work_react_assignment/static/media/art3.cce495af1d30ef97a8a3.jpg",
+    "static/media/profile.png": "/work_react_assignment/static/media/profile.953c59fb4d1eab27926d.png",
+    "static/media/landingsde3.jpg": "/work_react_assignment/static/media/landingsde3.446ccf9e0750a4fb2f63.jpg",
+    "static/media/art1.jpg": "/work_react_assignment/static/media/art1.cdc26c67e42dab2676b8.jpg",
+    "static/media/bg1.jpg": "/work_react_assignment/static/media/bg1.4f809563249cc8a3e124.jpg",
+    "static/media/fa3.jpg": "/work_react_assignment/static/media/fa3.d003183004dff91751b5.jpg",
+    "static/media/landingsde1.jpg": "/work_react_assignment/static/media/landingsde1.5e8cf372b00effbbcc4d.jpg",
+    "static/media/fea1.jpg": "/work_react_assignment/static/media/fea1.8ce101ed185ff8b8635b.jpg",
+    "static/media/fa4.jpg": "/work_react_assignment/static/media/fa4.71cc2a7d558124860da3.jpg",
+    "static/media/art4.jpg": "/work_react_assignment/static/media/art4.8381f959e15149f814d9.jpg",
+    "static/media/bg2.jpg": "/work_react_assignment/static/media/bg2.01aac3072996304176c9.jpg",
     "index.html": "/work_react_assignment/index.html",
-    "main.ad61cdf1.css.map": "/work_react_assignment/static/css/main.ad61cdf1.css.map",
-    "main.eefb0988.js.map": "/work_react_assignment/static/js/main.eefb0988.js.map"
+    "main.fa80282e.css.map": "/work_react_assignment/static/css/main.fa80282e.css.map",
+    "main.9ae0aa69.js.map": "/work_react_assignment/static/js/main.9ae0aa69.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad61cdf1.css",
-    "static/js/main.eefb0988.js"
+    "static/css/main.fa80282e.css",
+    "static/js/main.9ae0aa69.js"
   ]
 }
